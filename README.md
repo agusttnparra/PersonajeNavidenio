@@ -14,6 +14,10 @@ Pastorcita con cesta de frutas
 |Arduino IDE|2.2.1|Software Libre|
 
 ## Prototipo en dibujo
+![pastorcita](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/fad68246-bfbb-4df2-a038-863203ddc4bd)
+
+## Diseño del Personaje
+A continuación, se muestra un boceto del diseño de nuestra pastorcita con cesta de frutas:
 
 
 
